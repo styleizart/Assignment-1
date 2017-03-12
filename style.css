@@ -1,0 +1,43 @@
+.logo{
+	width: 20%;
+	border: 2px solid blue;
+
+}
+
+.logo img{
+	height: 50px;
+	width: 100%;
+}
+
+.menubar{
+	border: 2px solid red;
+	width: 70%;
+
+}
+
+.menubar ul{
+	list-style: none;
+}
+
+.menubar ul li{
+	display: inline-block;
+	margin: 5px;
+	padding-left: 40px;
+}
+
+
+.news{
+width: 30%;
+display: inline-block;
+margin-right: 2%;
+border: 2px solid green;
+background-color: white;
+color: black ;
+}
+
+.news img{
+	width: 100%;
+  
+}
+
+
